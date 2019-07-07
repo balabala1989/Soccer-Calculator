@@ -1,0 +1,67 @@
+MIDlet-Name: Soccer Calculator
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: Soccer Calculator.jar
+MIDlet-Jar-Size: 2144865
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/iconSoccer.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: SoccerCalculator.cod
+RIM-COD-Size: 31848
+RIM-COD-Creation-Time: 1360951488
+RIM-COD-Module-Name: SoccerCalculator
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: ad df e1 b2 5e 54 2d 40 79 23 9e c0 60 ad f2 fb a9 51 b6 98
+RIM-COD-URL-1: SoccerCalculator-1.cod
+RIM-COD-Size-1: 61884
+RIM-COD-SHA1-1: 5b 39 c4 93 ae 41 1b 97 41 2e 5b 1c f2 34 f4 33 e4 9e 3a 41
+RIM-COD-URL-2: SoccerCalculator-2.cod
+RIM-COD-Size-2: 61828
+RIM-COD-SHA1-2: d5 5f 95 9f 66 86 0b b5 a1 85 75 a6 c5 23 fd fe 3e 4e 5f 0b
+RIM-COD-URL-3: SoccerCalculator-3.cod
+RIM-COD-Size-3: 61828
+RIM-COD-SHA1-3: fb bf da 73 39 aa e8 6a dc 91 6c 74 f0 ca 3d 64 9c 6a bd 50
+RIM-COD-URL-4: SoccerCalculator-4.cod
+RIM-COD-Size-4: 61828
+RIM-COD-SHA1-4: 81 f6 01 41 a9 ac 0d fe 45 a3 8e 6f 8b f8 29 7a a5 29 58 bf
+RIM-COD-URL-5: SoccerCalculator-5.cod
+RIM-COD-Size-5: 61828
+RIM-COD-SHA1-5: c1 aa b4 1d b3 6b c8 80 6b 6d ca b8 6e 6f de fc 31 0e 5e d9
+RIM-COD-URL-6: SoccerCalculator-6.cod
+RIM-COD-Size-6: 61828
+RIM-COD-SHA1-6: 81 48 72 96 3d dc 24 04 be 11 3e ab a7 01 ab 77 ba 7a 33 aa
+RIM-COD-URL-7: SoccerCalculator-7.cod
+RIM-COD-Size-7: 61828
+RIM-COD-SHA1-7: 07 08 e8 9f b4 27 a7 b7 ce f5 6c 61 f0 3b 49 10 e9 ca 0f da
+RIM-COD-URL-8: SoccerCalculator-8.cod
+RIM-COD-Size-8: 61828
+RIM-COD-SHA1-8: 0a ab 38 9f 71 f6 01 82 df c4 91 aa f6 ef 24 3e d7 f1 3a c9
+RIM-COD-URL-9: SoccerCalculator-9.cod
+RIM-COD-Size-9: 61700
+RIM-COD-SHA1-9: 1c 87 ea b5 c1 18 f1 4e b5 55 05 06 1c d7 34 7f 9d a7 b7 82
+RIM-COD-URL-10: SoccerCalculator-10.cod
+RIM-COD-Size-10: 61824
+RIM-COD-SHA1-10: 4e 86 55 4a d9 d5 37 08 e5 97 c6 91 ab 1d 2f 5e 20 6e 9f 67
+RIM-COD-URL-11: SoccerCalculator-11.cod
+RIM-COD-Size-11: 61828
+RIM-COD-SHA1-11: 53 79 ed 43 75 de 70 c3 4d 4c a3 e1 4e d8 81 4f 78 97 3e 39
+RIM-COD-URL-12: SoccerCalculator-12.cod
+RIM-COD-Size-12: 61828
+RIM-COD-SHA1-12: 22 4b 8b a7 8a ee b3 f8 2a 6b f1 c0 f8 25 22 f4 f9 09 dd 1f
+RIM-COD-URL-13: SoccerCalculator-13.cod
+RIM-COD-Size-13: 61828
+RIM-COD-SHA1-13: 53 06 0b 82 4e 32 72 d2 d0 e7 a0 ee 37 d8 0d 3e 73 9f 12 55
+RIM-COD-URL-14: SoccerCalculator-14.cod
+RIM-COD-Size-14: 61828
+RIM-COD-SHA1-14: 4a 84 bd 4f ba 98 91 19 b3 e0 70 e0 17 48 60 6c 82 89 04 32
+RIM-COD-URL-15: SoccerCalculator-15.cod
+RIM-COD-Size-15: 61828
+RIM-COD-SHA1-15: 66 88 5f bb 48 81 35 64 46 29 07 fb 31 11 93 19 62 d7 14 e0
+RIM-COD-URL-16: SoccerCalculator-16.cod
+RIM-COD-Size-16: 61828
+RIM-COD-SHA1-16: 17 cb 37 3e f6 6a 00 33 b8 10 87 27 c1 c6 1f 90 55 9a 6e ea
+RIM-COD-URL-17: SoccerCalculator-17.cod
+RIM-COD-Size-17: 61828
+RIM-COD-SHA1-17: 4e d5 69 18 c5 eb 15 1f f2 ac 79 16 c5 06 2b dc 46 09 0e 17
